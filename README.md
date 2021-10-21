@@ -1,6 +1,6 @@
 <a href='#'><img width="70%" height="auto" src="https://nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Shekhar Mayank</h1>
+<h1 align="center">👋   Shekhar Mayank</h1>
 <h3 align="center">A passionate programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srmk7&label=Profile%20views&color=0e75b6&style=flat" alt="srmk7" /> </p>
