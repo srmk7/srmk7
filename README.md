@@ -1,4 +1,4 @@
-<a href='#'><img width="90%" height="auto" src="https://cdn.freebiesupply.com/logos/thumbs/2x/stillirise-logo.png" height="175px"/></a>
+<a href='#'><img width="100%" height="auto" src="https://nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Shekhar Mayank</h1>
 <h3 align="center">A passionate programmer</h3>
