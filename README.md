@@ -1,4 +1,4 @@
-<a href='#'><img width="78%" height="auto" src="https://nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif" height="175px"/></a>
+<a href='#'><img width="65%" height="auto" src="https://nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif" height="175px"/></a>
 
 <h1 align="center">👋   Shekhar Mayank</h1>
 <h3 align="center">  A passionate programmer</h3>
