@@ -1,4 +1,4 @@
-<a href='#'><img width="100%" height="auto" src="https://cdn.worldvectorlogo.com/logos/stillirise.svg" height="175px"/></a>
+<a href='#'><img width="75%" height="auto" src="https://cdn.worldvectorlogo.com/logos/stillirise.svg" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Shekhar Mayank</h1>
 <h3 align="center">A passionate programmer</h3>
