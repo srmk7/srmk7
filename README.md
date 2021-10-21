@@ -1,4 +1,4 @@
-<a href='#'><img width="110%" height="250px" src="https://github.com/srmk7/srmk7/blob/main/images%20(12)-03.jpeg" height="185px"/></a>
+<a href='#'><img width="110%" height="250px" src="https://github.com/srmk7/srmk7/blob/main/BannerGitHub.jpeg" height="185px"/></a>
 <h1 align="center">👋   Shekhar Mayank</h1>
 <h3 align="center">  A passionate programmer</h3>
 
